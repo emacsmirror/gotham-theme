@@ -24,9 +24,9 @@ Thanks to [Norbert Klar] for the following three!
 
 ## Installation
 
-To install the theme via `package.el`, set up the [Marmalade] or [MELPA
-(Stable)] repository if you haven't already and do
-`M-x package-install RET gotham-theme RET`.
+To install the theme via `package.el`, set up the [MELPA (Stable)]
+repository if you haven't already and do `M-x package-install RET
+gotham-theme RET`.
 
 Alternatively, you can install the theme manually by downloading
 `gotham-theme.el` and putting it in a suitable location such as
@@ -49,5 +49,4 @@ following to your init file:
 [go-screenshot]: img/go.png
 [go-screenshot2]: img/go2.png
 [go-screenshot3]: img/go3.png
-[Marmalade]: https://marmalade-repo.org/
 [MELPA (Stable)]: http://melpa.org/

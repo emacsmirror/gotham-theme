@@ -818,7 +818,7 @@ depending on DISPLAY for keys which are either :foreground or
    (magit-diff-removed-highlight :foreground red :weight bold)
    (magit-diffstat-added :foreground green)
    (magit-diffstat-removed :foreground red)
-   (magit-dimmed :inherit shadow)
+   (magit-dimmed :foreground base1)
    (magit-hash :foreground base5)
    (magit-log-author :foreground orange)
    (magit-log-date :foreground magenta)

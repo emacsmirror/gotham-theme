@@ -20,7 +20,7 @@ Thanks to [Norbert Klar] for the following three!
 
 ![][go-screenshot2]
 
-![][go-screensho3]
+![][go-screenshot3]
 
 ## Installation
 

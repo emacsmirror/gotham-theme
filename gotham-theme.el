@@ -580,9 +580,9 @@ depending on DISPLAY for keys which are either :foreground or
    (debbugs-gnu-tagged :foreground red)
 
    ;; diff-hl
-   (diff-hl-change :foreground cyan)
-   (diff-hl-delete :foreground red)
-   (diff-hl-insert :foreground green)
+   (diff-hl-change :foreground cyan :background base5)
+   (diff-hl-delete :foreground red :background orange)
+   (diff-hl-insert :foreground green :background base2)
 
    ;; dired-async
    (dired-async-failures :inherit error)

@@ -1,4 +1,4 @@
-;;; gotham-theme.el --- A very dark Emacs color theme.
+;;; gotham-theme.el --- A very dark Emacs color theme
 
 ;; Copyright (C) 2014 Vasilij Schneidermann <mail@vasilij.de>
 

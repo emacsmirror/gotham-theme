@@ -5,6 +5,7 @@
 ;; Author: Vasilij Schneidermann <mail@vasilij.de>
 ;; URL: https://depp.brause.cc/gotham-theme
 ;; Version: 1.1.8
+;; Package-Requires: ((emacs "24.1"))
 
 ;; This file is NOT part of GNU Emacs.
 

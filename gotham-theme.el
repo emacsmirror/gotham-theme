@@ -92,8 +92,8 @@ the rules that are applied to the face attributes."
          (spec (cdr face))
          (graphic-spec (gotham-transform-spec spec 'graphic))
          (tty-spec (gotham-transform-spec spec 'tty)))
-    `(,name ((((type graphic)) ,@graphic-spec)
-             (((type tty)) ,@tty-spec)))))
+    `(,name ((((class color) (min-colors 257)) ,@graphic-spec)
+             (((class color) (min-colors 16)) ,@tty-spec)))))
 
 (defun gotham-transform-spec (spec display)
   "Helper function that transforms SPEC for DISPLAY.
